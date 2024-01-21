@@ -16,4 +16,4 @@
 #
 
 JAVA_OPTS="-Xmx14G"
-java $JAVA_OPTS --class-path build/libs/1brcKt_VivekDh-1.0-SNAPSHOT.jar baseline.CreateMeasurementsFast $1
+java $JAVA_OPTS --class-path build/libs/1brcKt_VivekDh-1.0-SNAPSHOT.jar baseline.CreateMeasurements $1
